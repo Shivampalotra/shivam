@@ -1,3 +1,4 @@
 # shivam
 this is my first repo
-author-shivam palotra
+author-shivam zoro
+
